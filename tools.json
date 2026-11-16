@@ -1,0 +1,1660 @@
+[
+  {
+    "name": "IntelBase",
+    "url": "https://intelbase.is/",
+    "category": "Email",
+    "price": "Freemium",
+    "description": "Finds accounts and data linked to an email address"
+  },
+  {
+    "name": "FastPeopleSearch",
+    "url": "https://www.fastpeoplesearch.com/",
+    "category": "People Search",
+    "price": "Free",
+    "description": "Looks up US people by name, phone, or address",
+    "note": "US records only"
+  },
+  {
+    "name": "That's Them",
+    "url": "https://thatsthem.com",
+    "category": "People Search",
+    "price": "Freemium",
+    "description": "Searches US people by name, email, phone, or IP",
+    "note": "US records only"
+  },
+  {
+    "name": "PhoneInfoga",
+    "url": "https://github.com/sundowndev/phoneinfoga",
+    "category": "Phone",
+    "price": "Free",
+    "description": "Gathers carrier and footprint data for phone numbers",
+    "note": "Self hosted tool"
+  },
+  {
+    "name": "SSN Decoder",
+    "url": "https://stevemorse.org/ssn/ssn.html",
+    "category": "People Search",
+    "price": "Free",
+    "description": "Shows which state and year issued an SSN",
+    "note": "Only valid for SSNs issued before 2011"
+  },
+  {
+    "name": "Sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "category": "Username",
+    "price": "Free",
+    "description": "Finds social profiles from a username",
+    "note": "Command line, needs Python"
+  },
+  {
+    "name": "Social Searcher",
+    "url": "https://www.social-searcher.com/",
+    "category": "Social Media",
+    "price": "Freemium",
+    "description": "Searches mentions across social networks"
+  },
+  {
+    "name": "Social Analyzer",
+    "url": "https://github.com/qeeqbox/social-analyzer",
+    "category": "Username",
+    "price": "Free",
+    "description": "Checks a username across hundreds of sites",
+    "note": "Command line or web app"
+  },
+  {
+    "name": "UserSearch",
+    "url": "https://usersearch.org/index.php",
+    "category": "Username",
+    "price": "Freemium",
+    "description": "Searches a username across social and dating sites"
+  },
+  {
+    "name": "Opsis OSINT",
+    "url": "https://useopsis.com/",
+    "category": "Social Media",
+    "price": "Freemium",
+    "description": "Collects and analyzes public social media data"
+  },
+  {
+    "name": "Hootsuite Listening",
+    "url": "https://www.hootsuite.com/platform/listening",
+    "category": "Social Media",
+    "price": "Paid",
+    "description": "Monitors brand and keyword mentions over time"
+  },
+  {
+    "name": "You.com",
+    "url": "https://you.com/",
+    "category": "Search Engines",
+    "price": "Freemium",
+    "description": "Searches the web with AI summaries"
+  },
+  {
+    "name": "Tinfoleak",
+    "url": "https://tinfoleak.com/",
+    "category": "Social Media",
+    "price": "Free",
+    "description": "Profiles an X (Twitter) account's activity"
+  },
+  {
+    "name": "Information Laundromat",
+    "url": "https://informationlaundromat.com/",
+    "category": "Business",
+    "price": "Free",
+    "description": "Finds sites sharing content or infrastructure"
+  },
+  {
+    "name": "Brownbook",
+    "url": "https://www.brownbook.net/",
+    "category": "Business",
+    "price": "Free",
+    "description": "Searches a global business directory"
+  },
+  {
+    "name": "Business Entity Search",
+    "url": "https://www.harborcompliance.com/business-entity-search",
+    "category": "Business",
+    "price": "Free",
+    "description": "Links to every US state business registry"
+  },
+  {
+    "name": "SEC EDGAR Search",
+    "url": "https://www.sec.gov/search-filings",
+    "category": "Business",
+    "price": "Free",
+    "description": "Searches US public company filings"
+  },
+  {
+    "name": "Cobalt Intelligence",
+    "url": "https://cobaltintelligence.com/secretary-of-state-business-search",
+    "category": "Business",
+    "price": "Paid",
+    "description": "Queries Secretary of State records through one API"
+  },
+  {
+    "name": "BuiltWith",
+    "url": "https://builtwith.com/",
+    "category": "Domain & Website",
+    "price": "Freemium",
+    "description": "Shows the technology a website runs on"
+  },
+  {
+    "name": "PublicWWW",
+    "url": "https://publicwww.com/",
+    "category": "Domain & Website",
+    "price": "Freemium",
+    "description": "Searches website source code for any snippet"
+  },
+  {
+    "name": "urlscan.io",
+    "url": "https://urlscan.io/",
+    "category": "Domain & Website",
+    "price": "Freemium",
+    "description": "Scans a URL and records what it loads"
+  },
+  {
+    "name": "SecurityTrails",
+    "url": "https://securitytrails.com/",
+    "category": "Domain & Website",
+    "price": "Freemium",
+    "description": "Shows historical DNS and WHOIS for domains",
+    "note": "API also available"
+  },
+  {
+    "name": "Amass",
+    "url": "https://github.com/owasp-amass/amass",
+    "category": "Domain & Website",
+    "price": "Free",
+    "description": "Maps subdomains and attack surface",
+    "note": "Command line"
+  },
+  {
+    "name": "Osmedeus",
+    "url": "https://github.com/j3ssie/osmedeus",
+    "category": "Domain & Website",
+    "price": "Free",
+    "description": "Automates reconnaissance workflows against a target",
+    "note": "Command line"
+  },
+  {
+    "name": "Webrobots InstantData",
+    "url": "https://webrobots.io/instantdata/",
+    "category": "Domain & Website",
+    "price": "Free",
+    "description": "Scrapes page data into tables from the browser",
+    "note": "Browser extension"
+  },
+  {
+    "name": "Shodan",
+    "url": "https://www.shodan.io/",
+    "category": "Network & IP",
+    "price": "Freemium",
+    "description": "Searches internet connected devices and open ports"
+  },
+  {
+    "name": "Censys",
+    "url": "https://censys.com/",
+    "category": "Network & IP",
+    "price": "Freemium",
+    "description": "Searches hosts and certificates across the internet"
+  },
+  {
+    "name": "Nmap",
+    "url": "https://nmap.org/",
+    "category": "Network & IP",
+    "price": "Free",
+    "description": "Scans hosts for open ports and services",
+    "note": "Only scan systems you are authorized to test"
+  },
+  {
+    "name": "GeoWiFi",
+    "url": "https://github.com/GONZOsint/geowifi",
+    "category": "Network & IP",
+    "price": "Free",
+    "description": "Geolocates a WiFi network by BSSID or SSID",
+    "note": "Command line"
+  },
+  {
+    "name": "RuView (WiFi-DensePose)",
+    "url": "https://github.com/ruvnet/RuView",
+    "category": "Surveillance",
+    "price": "Free",
+    "description": "Estimates body pose, breathing and movement from WiFi signals, even through walls",
+    "note": "Open source research project, runs on cheap ESP32 boards"
+  },
+  {
+    "name": "Ahmia",
+    "url": "https://ahmia.fi/",
+    "category": "Dark Web",
+    "price": "Free",
+    "description": "Searches Tor hidden services from the clear web"
+  },
+  {
+    "name": "Intelligence X",
+    "url": "https://intelx.io/",
+    "category": "Dark Web",
+    "price": "Freemium",
+    "description": "Searches leaks, darknet, and archived data"
+  },
+  {
+    "name": "Epieos",
+    "url": "https://epieos.com/",
+    "category": "Email",
+    "price": "Freemium",
+    "description": "Finds accounts tied to an email or phone"
+  },
+  {
+    "name": "Fresh Onions",
+    "url": "https://github.com/dirtyfilthy/freshonions-torscraper",
+    "category": "Dark Web",
+    "price": "Free",
+    "description": "Crawls and indexes Tor hidden services",
+    "note": "Self hosted tool"
+  },
+  {
+    "name": "r/onions",
+    "url": "https://reddit.com/r/onions",
+    "category": "Dark Web",
+    "price": "Free",
+    "description": "Discusses Tor services and onion links"
+  },
+  {
+    "name": "TinEye",
+    "url": "https://tineye.com/",
+    "category": "Images & Video",
+    "price": "Freemium",
+    "description": "Finds where an image appears online"
+  },
+  {
+    "name": "Google Images",
+    "url": "https://images.google.com/",
+    "category": "Images & Video",
+    "price": "Free",
+    "description": "Runs reverse image search"
+  },
+  {
+    "name": "PimEyes",
+    "url": "https://pimeyes.com/en",
+    "category": "Images & Video",
+    "price": "Paid",
+    "description": "Searches the web for matching faces",
+    "note": "Use only within the law and ethics of your work"
+  },
+  {
+    "name": "ExifTool",
+    "url": "https://exiftool.org/",
+    "category": "Images & Video",
+    "price": "Free",
+    "description": "Reads and removes metadata from files"
+  },
+  {
+    "name": "InVID Plugin",
+    "url": "https://www.invid-project.eu/tools-and-services/invid-verification-plugin/",
+    "category": "Images & Video",
+    "price": "Free",
+    "description": "Verifies videos and images with keyframes and forensics",
+    "note": "Browser extension"
+  },
+  {
+    "name": "GeoSpy (Raven)",
+    "url": "https://geospy.ai/",
+    "category": "Geolocation",
+    "price": "Paid",
+    "description": "Predicts where a photo was taken with AI",
+    "note": "Now sold as Raven by Graylark"
+  },
+  {
+    "name": "Google Earth",
+    "url": "https://earth.google.com/web/",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Views satellite imagery and 3D terrain"
+  },
+  {
+    "name": "OpenStreetMap",
+    "url": "https://www.openstreetmap.org/",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Browses open, community edited maps"
+  },
+  {
+    "name": "MapQuest",
+    "url": "https://www.mapquest.com/",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Maps addresses and routes"
+  },
+  {
+    "name": "NASA EONET",
+    "url": "https://eonet.gsfc.nasa.gov/",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Tracks natural events like fires and storms"
+  },
+  {
+    "name": "OpenAthena (Theta)",
+    "url": "https://theta.limited/",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Calculates ground coordinates from drone imagery"
+  },
+  {
+    "name": "GeoIP2",
+    "url": "https://pypi.org/project/geoip2/",
+    "category": "Network & IP",
+    "price": "Freemium",
+    "description": "Geolocates IP addresses in Python",
+    "note": "Needs MaxMind database"
+  },
+  {
+    "name": "Have I Been Pwned",
+    "url": "https://haveibeenpwned.com/",
+    "category": "Breaches & Leaks",
+    "price": "Free",
+    "description": "Checks if an email appears in known breaches"
+  },
+  {
+    "name": "DeHashed",
+    "url": "https://dehashed.com/",
+    "category": "Breaches & Leaks",
+    "price": "Paid",
+    "description": "Searches breach records by many fields"
+  },
+  {
+    "name": "LeakCheck",
+    "url": "https://leakcheck.io/",
+    "category": "Breaches & Leaks",
+    "price": "Freemium",
+    "description": "Searches leaked credentials by email or username"
+  },
+  {
+    "name": "Recorded Future Trending CVEs",
+    "url": "https://www.recordedfuture.com/resources/trending-vulnerabilities",
+    "category": "Breaches & Leaks",
+    "price": "Free",
+    "description": "Lists actively exploited CVEs with risk context"
+  },
+  {
+    "name": "Recorded Future Extension",
+    "url": "https://www.recordedfuture.com/platform/browser-extension",
+    "category": "Breaches & Leaks",
+    "price": "Free",
+    "description": "Adds threat intel to indicators in the browser",
+    "note": "Browser extension"
+  },
+  {
+    "name": "Hashes.com",
+    "url": "https://hashes.com/",
+    "category": "Breaches & Leaks",
+    "price": "Freemium",
+    "description": "Identifies and looks up password hashes"
+  },
+  {
+    "name": "Phomber",
+    "url": "https://github.com/s41r4j/phomber",
+    "category": "Phone",
+    "price": "Free",
+    "description": "Collects public info on phone numbers",
+    "note": "Command line"
+  },
+  {
+    "name": "OSINT Framework",
+    "url": "https://osintframework.com/",
+    "category": "Frameworks",
+    "price": "Free",
+    "description": "Maps OSINT resources as a clickable tree"
+  },
+  {
+    "name": "Maltego",
+    "url": "https://www.maltego.com/",
+    "category": "Frameworks",
+    "price": "Freemium",
+    "description": "Visualizes links between people, domains, and data"
+  },
+  {
+    "name": "SpiderFoot",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "category": "Frameworks",
+    "price": "Free",
+    "description": "Automates collection from hundreds of sources",
+    "note": "Self hosted tool"
+  },
+  {
+    "name": "Recon-ng",
+    "url": "https://github.com/lanmaster53/recon-ng",
+    "category": "Frameworks",
+    "price": "Free",
+    "description": "Runs modular web reconnaissance",
+    "note": "Command line"
+  },
+  {
+    "name": "theHarvester",
+    "url": "https://www.kali.org/tools/theharvester/",
+    "category": "Frameworks",
+    "price": "Free",
+    "description": "Gathers emails, hosts, and subdomains for a domain",
+    "note": "Command line"
+  },
+  {
+    "name": "GitRecon",
+    "url": "https://github.com/GONZOsint/gitrecon",
+    "category": "Frameworks",
+    "price": "Free",
+    "description": "Extracts profile and email data from GitHub and GitLab",
+    "note": "Command line"
+  },
+  {
+    "name": "Mitaka",
+    "url": "https://github.com/ninoseki/mitaka",
+    "category": "Frameworks",
+    "price": "Free",
+    "description": "Searches selected IOCs across many services",
+    "note": "Browser extension"
+  },
+  {
+    "name": "OSINT-Tool",
+    "url": "https://www.osint-tool.com/",
+    "category": "Frameworks",
+    "price": "Freemium",
+    "description": "Runs multiple OSINT lookups from one dashboard"
+  },
+  {
+    "name": "Babel Street",
+    "url": "https://www.babelstreet.com/platform",
+    "category": "Frameworks",
+    "price": "Paid",
+    "description": "Analyzes multilingual public data at scale",
+    "note": "Enterprise"
+  },
+  {
+    "name": "Paliscope",
+    "url": "https://www.paliscope.com/",
+    "category": "Frameworks",
+    "price": "Paid",
+    "description": "Captures and documents online investigations",
+    "note": "Enterprise"
+  },
+  {
+    "name": "Tria.ge",
+    "url": "https://tria.ge/",
+    "category": "Frameworks",
+    "price": "Freemium",
+    "description": "Detonates malware samples in a sandbox"
+  },
+  {
+    "name": "DeFlock",
+    "url": "https://deflock.org/",
+    "category": "Surveillance",
+    "price": "Free",
+    "description": "Maps automated license plate reader cameras"
+  },
+  {
+    "name": "Have I Been Flocked?",
+    "url": "https://haveibeenflocked.com/",
+    "category": "Surveillance",
+    "price": "Free",
+    "description": "Checks Flock camera exposure for a plate"
+  },
+  {
+    "name": "Archive.org Texts",
+    "url": "https://archive.org/details/texts",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Searches millions of archived books and documents"
+  },
+  {
+    "name": "Yoga OSINT Training",
+    "url": "https://yoga.myosint.training/",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Teaches OSINT through guided exercises"
+  },
+  {
+    "name": "Gralhix OSINT Exercises",
+    "url": "https://gralhix.com/list-of-osint-exercises/",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Lists practice geolocation and OSINT challenges"
+  },
+  {
+    "name": "UK OSINT",
+    "url": "https://www.uk-osint.net/",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Collects UK focused OSINT links"
+  },
+  {
+    "name": "OSINT Forums",
+    "url": "https://hackcontrol.org/OSINT/Forums.html",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Lists OSINT discussion forums"
+  },
+  {
+    "name": "telecomHall OSINT Thread",
+    "url": "https://www.telecomhall.net/t/best-open-source-intelligence-osint-tools/22332",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Discusses OSINT tool recommendations"
+  },
+  {
+    "name": "Trace Labs",
+    "url": "https://www.tracelabs.org/",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Runs OSINT events that help find missing people"
+  },
+  {
+    "name": "Operation Safe Escape",
+    "url": "https://safeescape.org/volunteer/",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Recruits volunteers to help abuse survivors"
+  },
+  {
+    "name": "Europol Trace an Object",
+    "url": "https://www.europol.europa.eu/stopchildabuse",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Crowdsources identification of objects in abuse cases"
+  },
+  {
+    "name": "IACA OSINT Party",
+    "url": "https://www.iaca.net/osint-party",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Hosts OSINT community events for analysts"
+  },
+  {
+    "name": "WhatsMyName Web",
+    "url": "https://whatsmyname.app/",
+    "category": "Username",
+    "price": "Free",
+    "description": "Checks a username across hundreds of sites in the browser",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Maigret",
+    "url": "https://github.com/soxoj/maigret",
+    "category": "Username",
+    "price": "Free",
+    "description": "Builds a profile report from a username across 3,000+ sites",
+    "note": "Command line, needs Python",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Namechk",
+    "url": "https://namechk.com/",
+    "category": "Username",
+    "price": "Free",
+    "description": "Shows where a username is taken on social sites and domains",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Instant Username Search",
+    "url": "https://instantusername.com/",
+    "category": "Username",
+    "price": "Free",
+    "description": "Checks username availability as you type",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Holehe",
+    "url": "https://github.com/megadose/holehe",
+    "category": "Email",
+    "price": "Free",
+    "description": "Checks which sites an email address is registered on",
+    "note": "Command line, needs Python",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Hunter",
+    "url": "https://hunter.io/",
+    "category": "Email",
+    "price": "Freemium",
+    "description": "Finds and verifies work email addresses by domain",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "EmailRep",
+    "url": "https://emailrep.io/",
+    "category": "Email",
+    "price": "Freemium",
+    "description": "Scores an email's reputation and online footprint",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Email Format",
+    "url": "https://www.email-format.com/",
+    "category": "Email",
+    "price": "Free",
+    "description": "Shows the email address pattern a company uses",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "MxToolbox Header Analyzer",
+    "url": "https://mxtoolbox.com/EmailHeaders.aspx",
+    "category": "Email",
+    "price": "Free",
+    "description": "Traces where an email really came from using its headers",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Google Messageheader",
+    "url": "https://toolbox.googleapps.com/apps/messageheader/",
+    "category": "Email",
+    "price": "Free",
+    "description": "Parses email headers into a readable delivery path",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Phonebook.cz",
+    "url": "https://phonebook.cz/",
+    "category": "Email",
+    "price": "Freemium",
+    "description": "Lists emails, subdomains and URLs found for a domain",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Truecaller",
+    "url": "https://www.truecaller.com/",
+    "category": "Phone",
+    "price": "Freemium",
+    "description": "Shows the name most people saved for a phone number",
+    "note": "Sign in required",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Sync.me",
+    "url": "https://sync.me/",
+    "category": "Phone",
+    "price": "Freemium",
+    "description": "Identifies who owns a phone number",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Spy Dialer",
+    "url": "https://spydialer.com/",
+    "category": "Phone",
+    "price": "Free",
+    "description": "Looks up US phone numbers, names and addresses",
+    "note": "US records only",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Free Carrier Lookup",
+    "url": "https://freecarrierlookup.com/",
+    "category": "Phone",
+    "price": "Free",
+    "description": "Shows the carrier and line type for a number",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Ignorant",
+    "url": "https://github.com/megadose/ignorant",
+    "category": "Phone",
+    "price": "Free",
+    "description": "Checks which sites a phone number is registered on",
+    "note": "Command line, needs Python",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "CellMapper",
+    "url": "https://www.cellmapper.net/map",
+    "category": "Phone",
+    "price": "Free",
+    "description": "Maps cell towers and coverage by carrier",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "OpenCelliD",
+    "url": "https://opencellid.org/",
+    "category": "Phone",
+    "price": "Free",
+    "description": "Locates cell towers from their cell ID",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "TruePeopleSearch",
+    "url": "https://www.truepeoplesearch.com/",
+    "category": "People Search",
+    "price": "Free",
+    "description": "Finds US people, relatives and past addresses",
+    "note": "US records only",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "IDCrawl",
+    "url": "https://www.idcrawl.com/",
+    "category": "People Search",
+    "price": "Free",
+    "description": "Searches a name across social sites and people finders",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "WebMii",
+    "url": "https://webmii.com/",
+    "category": "People Search",
+    "price": "Free",
+    "description": "Shows a person's web visibility and mentions",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Radaris",
+    "url": "https://radaris.com/",
+    "category": "People Search",
+    "price": "Freemium",
+    "description": "Builds US background profiles from public records",
+    "note": "US records only",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "FamilyTreeNow",
+    "url": "https://www.familytreenow.com/",
+    "category": "People Search",
+    "price": "Free",
+    "description": "Finds relatives and past addresses from genealogy records",
+    "note": "US records only",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "FamilySearch",
+    "url": "https://www.familysearch.org/",
+    "category": "People Search",
+    "price": "Free",
+    "description": "Searches birth, marriage, census and death records",
+    "note": "Free account required",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Find a Grave",
+    "url": "https://www.findagrave.com/",
+    "category": "People Search",
+    "price": "Free",
+    "description": "Finds burial records, obituaries and family links",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "192.com",
+    "url": "https://www.192.com/",
+    "category": "People Search",
+    "price": "Freemium",
+    "description": "Searches UK people, businesses and electoral records",
+    "note": "UK records only",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Infobel",
+    "url": "https://www.infobel.com/",
+    "category": "People Search",
+    "price": "Free",
+    "description": "Searches phone directories in 200+ countries",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "BOP Inmate Locator",
+    "url": "https://www.bop.gov/inmateloc/",
+    "category": "People Search",
+    "price": "Free",
+    "description": "Finds federal inmates since 1982",
+    "note": "US federal records only",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "VINELink",
+    "url": "https://vinelink.vineapps.com/",
+    "category": "People Search",
+    "price": "Free",
+    "description": "Checks custody status of offenders in US jails",
+    "note": "US records only",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Who Posted What?",
+    "url": "https://whopostedwhat.com/",
+    "category": "Social Media",
+    "price": "Free",
+    "description": "Searches Facebook posts by keyword and date",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "X Advanced Search",
+    "url": "https://x.com/search-advanced",
+    "category": "Social Media",
+    "price": "Free",
+    "description": "Filters X posts by account, date, words and location",
+    "note": "Sign in required",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Thread Reader",
+    "url": "https://threadreaderapp.com/",
+    "category": "Social Media",
+    "price": "Free",
+    "description": "Unrolls X threads into one readable page",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Social Blade",
+    "url": "https://socialblade.com/",
+    "category": "Social Media",
+    "price": "Freemium",
+    "description": "Tracks follower and view history for accounts",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Followerwonk",
+    "url": "https://followerwonk.com/",
+    "category": "Social Media",
+    "price": "Freemium",
+    "description": "Searches X bios and compares followers",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Arctic Shift",
+    "url": "https://arctic-shift.photon-reddit.com/",
+    "category": "Social Media",
+    "price": "Free",
+    "description": "Searches archived Reddit posts and comments, including deleted ones",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "TGStat",
+    "url": "https://tgstat.com/",
+    "category": "Social Media",
+    "price": "Freemium",
+    "description": "Searches and ranks Telegram channels and posts",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "YouTube Metadata",
+    "url": "https://mattw.io/youtube-metadata/",
+    "category": "Social Media",
+    "price": "Free",
+    "description": "Shows upload time, tags and stats for a YouTube video",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Google Advanced Search",
+    "url": "https://www.google.com/advanced_search",
+    "category": "Search Engines",
+    "price": "Free",
+    "description": "Builds precise Google queries without memorizing operators",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Bing",
+    "url": "https://www.bing.com/",
+    "category": "Search Engines",
+    "price": "Free",
+    "description": "Searches with a different index than Google",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Yandex",
+    "url": "https://yandex.com/",
+    "category": "Search Engines",
+    "price": "Free",
+    "description": "Searches with strong Russian and Eastern European coverage",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Baidu",
+    "url": "https://www.baidu.com/",
+    "category": "Search Engines",
+    "price": "Free",
+    "description": "Searches the Chinese language web",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "DuckDuckGo",
+    "url": "https://duckduckgo.com/",
+    "category": "Search Engines",
+    "price": "Free",
+    "description": "Searches without tracking or personalization",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Brave Search",
+    "url": "https://search.brave.com/",
+    "category": "Search Engines",
+    "price": "Free",
+    "description": "Searches its own independent index",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Startpage",
+    "url": "https://www.startpage.com/",
+    "category": "Search Engines",
+    "price": "Free",
+    "description": "Shows Google results without tracking",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Mojeek",
+    "url": "https://www.mojeek.com/",
+    "category": "Search Engines",
+    "price": "Free",
+    "description": "Searches an independent crawler index",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Million Short",
+    "url": "https://millionshort.com/",
+    "category": "Search Engines",
+    "price": "Free",
+    "description": "Hides the top sites to surface buried results",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Google Scholar",
+    "url": "https://scholar.google.com/",
+    "category": "Search Engines",
+    "price": "Free",
+    "description": "Searches academic papers, theses and court opinions",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Boardreader",
+    "url": "https://boardreader.com/",
+    "category": "Search Engines",
+    "price": "Free",
+    "description": "Searches forum and message board posts",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "DorkSearch",
+    "url": "https://dorksearch.com/",
+    "category": "Search Engines",
+    "price": "Free",
+    "description": "Builds Google dork queries from a simple form",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Wayback Machine",
+    "url": "https://web.archive.org/",
+    "category": "Domain & Website",
+    "price": "Free",
+    "description": "Shows how a website looked on past dates",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "archive.today",
+    "url": "https://archive.ph/",
+    "category": "Domain & Website",
+    "price": "Free",
+    "description": "Saves and finds snapshots of web pages",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "crt.sh",
+    "url": "https://crt.sh/",
+    "category": "Domain & Website",
+    "price": "Free",
+    "description": "Finds subdomains from SSL certificate logs",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "DNSDumpster",
+    "url": "https://dnsdumpster.com/",
+    "category": "Domain & Website",
+    "price": "Freemium",
+    "description": "Maps a domain's DNS records and hosts",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "ViewDNS.info",
+    "url": "https://viewdns.info/",
+    "category": "Domain & Website",
+    "price": "Freemium",
+    "description": "Runs reverse IP, reverse WHOIS and DNS history lookups",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "ICANN Lookup",
+    "url": "https://lookup.icann.org/",
+    "category": "Domain & Website",
+    "price": "Free",
+    "description": "Shows official registration data for a domain",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "VirusTotal",
+    "url": "https://www.virustotal.com/",
+    "category": "Domain & Website",
+    "price": "Freemium",
+    "description": "Scans files, URLs and domains and shows relations",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "CentralOps",
+    "url": "https://centralops.net/co/",
+    "category": "Domain & Website",
+    "price": "Free",
+    "description": "Runs WHOIS, DNS and traceroute in one report",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "GrayhatWarfare",
+    "url": "https://buckets.grayhatwarfare.com/",
+    "category": "Domain & Website",
+    "price": "Freemium",
+    "description": "Searches open cloud storage buckets and files",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "bgp.he.net",
+    "url": "https://bgp.he.net/",
+    "category": "Network & IP",
+    "price": "Free",
+    "description": "Looks up ASNs, prefixes and peers",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "bgp.tools",
+    "url": "https://bgp.tools/",
+    "category": "Network & IP",
+    "price": "Free",
+    "description": "Shows live BGP routing and network owners",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "IPinfo",
+    "url": "https://ipinfo.io/",
+    "category": "Network & IP",
+    "price": "Freemium",
+    "description": "Shows location, ASN and company for an IP",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "AbuseIPDB",
+    "url": "https://www.abuseipdb.com/",
+    "category": "Network & IP",
+    "price": "Freemium",
+    "description": "Checks if an IP has been reported for abuse",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "GreyNoise",
+    "url": "https://viz.greynoise.io/",
+    "category": "Network & IP",
+    "price": "Freemium",
+    "description": "Shows whether an IP is mass scanning the internet",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Criminal IP",
+    "url": "https://www.criminalip.io/",
+    "category": "Network & IP",
+    "price": "Freemium",
+    "description": "Searches exposed devices and IP risk scores",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "ZoomEye",
+    "url": "https://www.zoomeye.ai/",
+    "category": "Network & IP",
+    "price": "Freemium",
+    "description": "Searches internet connected devices and services",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "WiGLE",
+    "url": "https://wigle.net/",
+    "category": "Network & IP",
+    "price": "Free",
+    "description": "Maps WiFi networks and cell towers worldwide",
+    "note": "Free account for full search",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "MAC Address Lookup",
+    "url": "https://maclookup.app/",
+    "category": "Network & IP",
+    "price": "Free",
+    "description": "Finds the vendor behind a MAC address",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "OpenCorporates",
+    "url": "https://opencorporates.com/",
+    "category": "Business",
+    "price": "Freemium",
+    "description": "Searches 200M+ companies and their officers worldwide",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Companies House",
+    "url": "https://find-and-update.company-information.service.gov.uk/",
+    "category": "Business",
+    "price": "Free",
+    "description": "Searches UK companies, officers and filings",
+    "note": "UK records only",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Sunbiz",
+    "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByName",
+    "category": "Business",
+    "price": "Free",
+    "description": "Searches Florida companies, officers and registered agents",
+    "note": "Florida records only",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "OpenSanctions",
+    "url": "https://www.opensanctions.org/",
+    "category": "Business",
+    "price": "Freemium",
+    "description": "Checks people and companies against sanctions and PEP lists",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "ICIJ Offshore Leaks",
+    "url": "https://offshoreleaks.icij.org/",
+    "category": "Business",
+    "price": "Free",
+    "description": "Searches offshore entities from the Panama and Pandora Papers",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "LittleSis",
+    "url": "https://littlesis.org/",
+    "category": "Business",
+    "price": "Free",
+    "description": "Maps ties between powerful people and organizations",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Nonprofit Explorer",
+    "url": "https://projects.propublica.org/nonprofits/",
+    "category": "Business",
+    "price": "Free",
+    "description": "Searches US nonprofit tax filings and pay",
+    "note": "US records only",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "OpenSecrets",
+    "url": "https://www.opensecrets.org/",
+    "category": "Business",
+    "price": "Free",
+    "description": "Tracks US political donations and lobbying",
+    "note": "US records only",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "GLEIF LEI Search",
+    "url": "https://search.gleif.org/",
+    "category": "Business",
+    "price": "Free",
+    "description": "Finds legal entity IDs and parent companies",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Yandex Images",
+    "url": "https://yandex.com/images/",
+    "category": "Images & Video",
+    "price": "Free",
+    "description": "Runs reverse image search, strongest for faces and places",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "FotoForensics",
+    "url": "https://fotoforensics.com/",
+    "category": "Images & Video",
+    "price": "Free",
+    "description": "Spots edited areas in a photo with error level analysis",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Forensically",
+    "url": "https://29a.ch/photo-forensics/",
+    "category": "Images & Video",
+    "price": "Free",
+    "description": "Checks photos for cloning, edits and hidden metadata",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Jimpl",
+    "url": "https://jimpl.com/",
+    "category": "Images & Video",
+    "price": "Free",
+    "description": "Reads EXIF and GPS data from a photo in the browser",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Worldcam.io",
+    "url": "https://worldcam.io/",
+    "category": "Geolocation",
+    "price": "Freemium",
+    "description": "Shows 199,000+ public webcams on a 3D globe",
+    "note": "Free viewing is time limited",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Windy Webcams",
+    "url": "https://www.windy.com/-Webcams/webcams",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Maps live weather and scenic webcams",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Mapillary",
+    "url": "https://www.mapillary.com/app/",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Shows crowdsourced street level photos where Google has none",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "KartaView",
+    "url": "https://kartaview.org/map/",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Shows open street level imagery",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Bing Maps",
+    "url": "https://www.bing.com/maps",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Shows aerial and bird's eye imagery",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Yandex Maps",
+    "url": "https://yandex.com/maps/",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Shows maps and street view across Russia and nearby countries",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Copernicus Browser",
+    "url": "https://browser.dataspace.copernicus.eu/",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Browses recent Sentinel satellite imagery by date",
+    "note": "Free account for downloads",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "NASA FIRMS",
+    "url": "https://firms.modaps.eosdis.nasa.gov/map/",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Maps active fires from satellites in near real time",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "SunCalc",
+    "url": "https://www.suncalc.org/",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Shows sun position and shadows for any place and time",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "PeakVisor",
+    "url": "https://peakvisor.com/",
+    "category": "Geolocation",
+    "price": "Freemium",
+    "description": "Identifies mountains on a skyline for photo matching",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Overpass Turbo",
+    "url": "https://overpass-turbo.eu/",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Queries OpenStreetMap for features that match a scene",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Wikimapia",
+    "url": "https://wikimapia.org/",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Shows user labelled buildings and places",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "GeoNames",
+    "url": "https://www.geonames.org/",
+    "category": "Geolocation",
+    "price": "Free",
+    "description": "Searches 11M+ place names and coordinates",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Liveuamap",
+    "url": "https://liveuamap.com/",
+    "category": "Geolocation",
+    "price": "Freemium",
+    "description": "Maps conflict and news events as they are reported",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Flightradar24",
+    "url": "https://www.flightradar24.com/",
+    "category": "Transport",
+    "price": "Freemium",
+    "description": "Tracks flights live and shows flight history",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "ADS-B Exchange",
+    "url": "https://globe.adsbexchange.com/",
+    "category": "Transport",
+    "price": "Free",
+    "description": "Tracks aircraft live, including ones hidden elsewhere",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "FAA Aircraft Registry",
+    "url": "https://registry.faa.gov/aircraftinquiry/",
+    "category": "Transport",
+    "price": "Free",
+    "description": "Looks up the owner of a US N-number aircraft",
+    "note": "US records only",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "MarineTraffic",
+    "url": "https://www.marinetraffic.com/",
+    "category": "Transport",
+    "price": "Freemium",
+    "description": "Tracks ships live by AIS",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "VesselFinder",
+    "url": "https://www.vesselfinder.com/",
+    "category": "Transport",
+    "price": "Freemium",
+    "description": "Tracks ships and shows vessel details",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Global Fishing Watch",
+    "url": "https://globalfishingwatch.org/map",
+    "category": "Transport",
+    "price": "Free",
+    "description": "Maps fishing vessel activity worldwide",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "NICB VINCheck",
+    "url": "https://www.nicb.org/vincheck",
+    "category": "Transport",
+    "price": "Free",
+    "description": "Checks a VIN for theft or salvage records",
+    "note": "US records only",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "OpenRailwayMap",
+    "url": "https://www.openrailwaymap.org/",
+    "category": "Transport",
+    "price": "Free",
+    "description": "Maps railway lines, stations and signals",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Blockchair",
+    "url": "https://blockchair.com/",
+    "category": "Crypto",
+    "price": "Freemium",
+    "description": "Searches transactions and addresses on many blockchains",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Etherscan",
+    "url": "https://etherscan.io/",
+    "category": "Crypto",
+    "price": "Free",
+    "description": "Explores Ethereum wallets, tokens and transactions",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Blockscan",
+    "url": "https://blockscan.com/",
+    "category": "Crypto",
+    "price": "Free",
+    "description": "Searches an address across many EVM chains at once",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "mempool.space",
+    "url": "https://mempool.space/",
+    "category": "Crypto",
+    "price": "Free",
+    "description": "Explores Bitcoin transactions and addresses",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "WalletExplorer",
+    "url": "https://www.walletexplorer.com/",
+    "category": "Crypto",
+    "price": "Free",
+    "description": "Groups Bitcoin addresses into likely wallets and services",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Breadcrumbs",
+    "url": "https://www.breadcrumbs.app/",
+    "category": "Crypto",
+    "price": "Freemium",
+    "description": "Visualizes the flow of funds between wallets",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Chainabuse",
+    "url": "https://www.chainabuse.com/",
+    "category": "Crypto",
+    "price": "Free",
+    "description": "Checks wallets and sites against scam reports",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "h8mail",
+    "url": "https://github.com/khast3x/h8mail",
+    "category": "Breaches & Leaks",
+    "price": "Free",
+    "description": "Hunts breached passwords for an email address",
+    "note": "Command line, needs Python",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Hudson Rock Infostealer Check",
+    "url": "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools",
+    "category": "Breaches & Leaks",
+    "price": "Free",
+    "description": "Checks if an email or domain appears in infostealer logs",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "BreachDirectory",
+    "url": "https://breachdirectory.org/",
+    "category": "Breaches & Leaks",
+    "price": "Freemium",
+    "description": "Checks an email or username against breach data",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Snusbase",
+    "url": "https://snusbase.com/",
+    "category": "Breaches & Leaks",
+    "price": "Paid",
+    "description": "Searches breach databases by email, name, IP or hash",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Tor Browser",
+    "url": "https://www.torproject.org/download/",
+    "category": "Dark Web",
+    "price": "Free",
+    "description": "Opens .onion sites and browses anonymously",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "dark.fail",
+    "url": "https://dark.fail/",
+    "category": "Dark Web",
+    "price": "Free",
+    "description": "Lists verified onion links for major sites",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "OnionSearch",
+    "url": "https://github.com/megadose/OnionSearch",
+    "category": "Dark Web",
+    "price": "Free",
+    "description": "Searches many onion search engines at once",
+    "note": "Command line, needs Python",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "This Person Does Not Exist",
+    "url": "https://thispersondoesnotexist.com/",
+    "category": "Sock Puppets",
+    "price": "Free",
+    "description": "Generates an AI face for a research persona",
+    "note": "Follow each platform's rules on fake accounts",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Fake Name Generator",
+    "url": "https://www.fakenamegenerator.com/",
+    "category": "Sock Puppets",
+    "price": "Free",
+    "description": "Generates a full fake identity by country",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Behind the Name Random",
+    "url": "https://www.behindthename.com/random/",
+    "category": "Sock Puppets",
+    "price": "Free",
+    "description": "Generates realistic names by country and era",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "SimpleLogin",
+    "url": "https://simplelogin.io/",
+    "category": "Sock Puppets",
+    "price": "Freemium",
+    "description": "Creates email aliases that forward to your inbox",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "addy.io",
+    "url": "https://addy.io/",
+    "category": "Sock Puppets",
+    "price": "Freemium",
+    "description": "Creates anonymous email forwarding aliases",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Maildrop",
+    "url": "https://maildrop.cc/",
+    "category": "Sock Puppets",
+    "price": "Free",
+    "description": "Gives you a disposable inbox with no sign up",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "10 Minute Mail",
+    "url": "https://10minutemail.com/",
+    "category": "Sock Puppets",
+    "price": "Free",
+    "description": "Creates an email address that expires in 10 minutes",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "BrowserLeaks",
+    "url": "https://browserleaks.com/",
+    "category": "Sock Puppets",
+    "price": "Free",
+    "description": "Shows what your browser reveals about you",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Cover Your Tracks",
+    "url": "https://coveryourtracks.eff.org/",
+    "category": "Sock Puppets",
+    "price": "Free",
+    "description": "Tests how unique and trackable your browser is",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "SparrowMap",
+    "url": "https://map.sparrowmap.com/",
+    "category": "Surveillance",
+    "price": "Free",
+    "description": "Maps government vehicles seen by volunteer street cameras",
+    "note": "Private plates are destroyed on the camera",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Atlas of Surveillance",
+    "url": "https://atlasofsurveillance.org/",
+    "category": "Surveillance",
+    "price": "Free",
+    "description": "Maps police surveillance tech by US city",
+    "note": "US records only",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Bellingcat Toolkit",
+    "url": "https://bellingcat.gitbook.io/toolkit",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Explains hundreds of tools with use cases and limits",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Bellingcat Guides",
+    "url": "https://www.bellingcat.com/category/resources/how-tos/",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Teaches investigation methods step by step",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "OSINT Curious",
+    "url": "https://osintcurio.us/",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Shares OSINT tips, videos and webcasts",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Week in OSINT",
+    "url": "https://sector035.nl/",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Rounds up new OSINT tools and tips weekly",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Awesome OSINT",
+    "url": "https://github.com/jivoi/awesome-osint",
+    "category": "Learning & Community",
+    "price": "Free",
+    "description": "Lists open source intelligence tools on GitHub",
+    "added": "2026-11-13"
+  },
+  {
+    "name": "Flock Locations",
+    "url": "https://flocklocations.com/",
+    "category": "Surveillance",
+    "price": "Free",
+    "description": "Maps 136,000+ reported Flock and ALPR camera locations by city and state",
+    "note": "Community reported, includes a route checker",
+    "added": "2026-11-13"
+  }
+]
